@@ -11,7 +11,7 @@ This repository is part of the DFG project [Sophoappeal (437543412)](https://www
 
 
 * python3, python3-pip, git, imagemagick, wget
-* tensorflow, numpy, tqdm install with `pip3 install -r requiremnts.txt`
+* tensorflow, numpy, tqdm install with `pip3 install -r requirements.txt`
 
 Run `./prepare.sh` to download the pre calculated features
 
